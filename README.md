@@ -1,0 +1,2 @@
+# DictionaryJS
+Javascript Dictionary App
